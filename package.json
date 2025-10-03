@@ -1,0 +1,11 @@
+{
+  "name": "capitalize-project",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/capitalize.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
